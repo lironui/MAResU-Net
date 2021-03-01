@@ -4,7 +4,12 @@ In this repository, we re-factor the skip connections in the raw U-Net and desig
 
 The detailed results can be seen in the [Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/ftp/arxiv/papers/2011/2011.14302.pdf).
 
-Please notice that the training code can be seen from the respository [MACU-Net](https://github.com/lironui/MACU-Net). Feel free to contact me if you need any further information: lironui@163.com
+The related repositories include:
+* [MACU-Net](https://github.com/lironui/MACU-Net) (The training code.)
+* [Linear-Attention-Mechanism](https://github.com/lironui/Linear-Attention-Mechanism) (The raw inplement of the LAM.)
+Please notice that the training code can be seen from the respository , while the . 
+
+Feel free to contact me if you need any further information: lironui@163.com
 
 If our code is helpful to you, please cite:
 
