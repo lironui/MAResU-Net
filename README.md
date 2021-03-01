@@ -36,7 +36,7 @@ Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention bloc
 
 Result:
 ------- 
-![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/network.png)  
+![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/result.png)  
 Fig. 2. Visualization of results on the Vaihingen.
 
 Complexity:
