@@ -4,7 +4,7 @@ In this repository, we re-factor the skip connections in the raw U-Net and desig
 
 The detailed results can be seen in the [Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/ftp/arxiv/papers/2011/2011.14302.pdf).
 
-Please notice that the supported code can be seen from the respository [MACU-Net](https://github.com/lironui/MACU-Net). Feel free to contact me if you need any further information: lironui@163.com
+Please notice that the training code can be seen from the respository [MACU-Net](https://github.com/lironui/MACU-Net). Feel free to contact me if you need any further information: lironui@163.com
 
 If our code is helpful to you, please cite:
 
