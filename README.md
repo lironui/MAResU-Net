@@ -14,6 +14,10 @@ If our code is helpful to you, please cite:
 
 `Li, Rui, et al. "Multistage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images." IEEE Geoscience and Remote Sensing Letters (2021): 1-5.`
 
+Acknowlegement:
+------- 
+Thanks very much for the sincere help from Jianlin Su as well as his blog [线性Attention的探索：Attention必须有个Softmax吗？](https://spaces.ac.cn/archives/7546)
+
 
 Requirements：
 ------- 
@@ -27,10 +31,15 @@ imageio >= 2.8.0
 
 Network:
 ------- 
-![network](https://github.com/lironui/MACU-Net/blob/master/figures/Fig.%201.png)  
-Fig. 1.  Comparison of (a) U-Net, (b) U-Net++， and proposed (c) MACU-Net 3+. The depth of each node is presented below the circle. 
+![network](https://github.com/lironui/MAResU-Net/blob/main/Fig/network.png)  
+Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention block.
 
-Results:
+Result:
 ------- 
-![Result](https://github.com/lironui/MACU-Net/blob/master/figures/Fig.%204.png)  
-Fig. 2. Visualization of results on the WHDLD dataset (the left) and the GID dataset (the right).
+![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/network.png)  
+Fig. 2. Visualization of results on the Vaihingen.
+
+Complexity:
+------- 
+![Complexity](https://github.com/lironui/MAResU-Net/blob/main/Fig/complexity.png)  
+Fig. 3. The (a) computation requirement and (b) memory requirement of the raw dot-product attention mechanism and the proposed linear attention mechanism under different input sizes. Please notice that the figure is in log scale.
