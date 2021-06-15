@@ -143,7 +143,7 @@ class DecoderBlock(nn.Module):
 
 class MAResUNet(nn.Module):
     def __init__(self, num_channels=3, num_classes=5):
-        super(MLAUNet, self).__init__()
+        super(MAResUNet, self).__init__()
         self.name = 'MAResUNet'
 
         filters = [64, 128, 256, 512]
