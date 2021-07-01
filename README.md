@@ -8,8 +8,6 @@ The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->The code to train the network.
 * [Linear-Attention-Mechanism](https://github.com/lironui/Linear-Attention-Mechanism)->The raw inplement of the LAM.
 
-Feel free to contact me if you need any further information: lironui@163.com
-
 If our code is helpful to you, please cite:
 
 `R. Li, S. Zheng, C. Duan, J. Su and C. Zhang. "Multistage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images." in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3063381.`
