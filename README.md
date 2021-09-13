@@ -4,7 +4,7 @@
 
 In this repository, we re-factor the skip connections in the raw U-Net and design a Multi-stage Attention ResU-Net (MAResU-Net) for semantic segmentation from fine-resolution remote sensing images.
 
-The detailed results can be seen in the [Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/ftp/arxiv/papers/2011/2011.14302.pdf).
+The detailed results can be seen in the [Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9378788/).
 
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->The code to train the network.
