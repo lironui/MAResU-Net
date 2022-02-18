@@ -1,4 +1,4 @@
-# Multistage-Attention-ResU-Net
+# Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images
 
 ⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
